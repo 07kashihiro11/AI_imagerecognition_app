@@ -1,0 +1,2 @@
+# AI_imagerecognition_app
+人工知能画像認識アプリを公開する
